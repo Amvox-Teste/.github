@@ -3,6 +3,7 @@
 </h1>
 
 <h4 align="center"> 
+<<<<<<< HEAD
     <img src="imgs/001-connections.png" alt="Redes sociais" height="30px"> Redes Sociais
 </h4>
 <p align="center">
@@ -19,3 +20,7 @@
 
 <a href="https://www.facebook.com/AmvoxBrasil"><img src="imgs/facebook.png" alt="Siga no Facebook" height="30px"></a>
 </p>
+=======
+    <img src="imgs/001-connections.png" alt="Redes sociais" height="30px">
+</h4>
+>>>>>>> d28cdfd34e27c2c9471bbb9bc53ff3a64722f4d7
