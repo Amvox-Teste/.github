@@ -3,9 +3,9 @@
 </h1>
 
 <h4 align="center"> 
-<<<<<<< HEAD
-    <img src="imgs/001-connections.png" alt="Redes sociais" height="30px"> Redes Sociais
+<img src="imgs/001-connections.png" alt="Redes sociais" height="30px"> Redes Sociais
 </h4>
+
 <p align="center">
 
 <a href="https://br.linkedin.com/company/amvox"><img src="imgs/linkedin.png" height="30px" alt="Siga no Linkedin"></a>
@@ -20,7 +20,5 @@
 
 <a href="https://www.facebook.com/AmvoxBrasil"><img src="imgs/facebook.png" alt="Siga no Facebook" height="30px"></a>
 </p>
-=======
-    <img src="imgs/001-connections.png" alt="Redes sociais" height="30px">
+
 </h4>
->>>>>>> d28cdfd34e27c2c9471bbb9bc53ff3a64722f4d7
