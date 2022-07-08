@@ -24,4 +24,4 @@ Há mais de 20 anos, a Reistar atua na importação e industrialização de prod
 
 ## Nosso Site
 
-<h3 align="center"><a href="https://www.amvox.com.br/"><img src="imgs/amv-header.jfif" alt="Header-Amvox"></a> </h3>
+<h3 align="center"><a href="https://www.amvox.com.br/"><img src="imgs/amv-header.jfif" alt="Header-Amvox" height="577px"></a> </h3>
