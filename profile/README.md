@@ -1,5 +1,6 @@
 <h1 align = "center">
-    <img src="../imgs/Padrão.png" title="#RedesSociais" alt="Banner Amvox">
+    <img src="../imgs/amv-header.jfif" title="#RedesSociais" alt="Banner Amvox">
+
 </h1>
 
 <h3 align="center"> 
